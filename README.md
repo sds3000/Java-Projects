@@ -1,2 +1,2 @@
-# College-Java-Projects
+# Java-Projects
 Labs and projects from college
